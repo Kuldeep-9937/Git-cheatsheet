@@ -5,6 +5,6 @@
 ```bash
 git init
 
-## Check status
-'''bash
+Check Status
+
 git status
